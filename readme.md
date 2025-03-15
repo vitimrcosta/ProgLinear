@@ -25,4 +25,5 @@ O problema foi resolvido usando **programação linear** com a biblioteca **PuLP
 2. Instale a biblioteca PuLP:
    ```bash
    pip install pulp
-3. python maximizar_lucro.py
+3. Para compilar o programa
+   ````python maximizar_lucro.py
